@@ -24,3 +24,4 @@
 ( N ) C            - Variável não definida
 ( N ) Maria        - Variável não definida (sem aspas)
 ( I ) +36          - Inteiro
+
